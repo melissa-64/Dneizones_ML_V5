@@ -17,6 +17,15 @@
             "status": "online",
             "imageUrl": "https://cdn.discordapp.com/attachments/1348258922024271976/1386412681543553085/image.png?ex=68599ced&is=68584b6d&hm=981fd5cbefa221971990b25f0fe1219e4382e3bb675376384aca8f8d319e6607&",
             "productUrl": "https://dneizones.com/product/legit-external"
+        },
+        {
+            "id": "Andromida-external",
+            "name": "Andromida-external",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1358432672346542204_cloud/main/Black_Ops_External_Launcher.exe",
+            "status": "updating",
+            "imageUrl": "https://cdn.discordapp.com/attachments/1348258922024271976/1386413642601205900/image.png?ex=68599dd2&is=68584c52&hm=af3fc5ceaa8cf9c53237b431de8d00ac44f45fb42ec51b9b526624d0be4fb504&",
+            "productUrl": "https://dneizones.com/product/andromida-external"
         }
     ]
 }
