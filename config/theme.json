@@ -19,7 +19,7 @@
             "main": "#050505",
             "overlay": "rgba(10,10,10,0.5)",
             "custom-image": "",
-            "logoImage": "",
+            "logoImage": "https://cdn.discordapp.com/attachments/1348258922024271976/1386408761882710086/DNeizoneLogo.png?ex=68599947&is=685847c7&hm=cf60e06be7831158e1d1573f52da467e2de2c279efb99d8abbaa9afca166fb94&",
             "background-anim": "snow"
         },
         "border": {
