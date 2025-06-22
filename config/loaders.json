@@ -8,6 +8,15 @@
             "status": "online",
             "imageUrl": "https://cdn.discordapp.com/attachments/1348258922024271976/1386411516017770598/image.png?ex=68599bd7&is=68584a57&hm=f752b94fe7ad8c2d8f8d9b5bae4e05232272810e5c70b47309cedb7faea450c5&",
             "productUrl": ""
+        },
+        {
+            "id": "redext",
+            "name": "redext",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1358432672346542204_cloud/main/RedExternal_1.exe",
+            "status": "online",
+            "imageUrl": "https://cdn.discordapp.com/attachments/1348258922024271976/1386412681543553085/image.png?ex=68599ced&is=68584b6d&hm=981fd5cbefa221971990b25f0fe1219e4382e3bb675376384aca8f8d319e6607&",
+            "productUrl": "https://dneizones.com/product/legit-external"
         }
     ]
 }
