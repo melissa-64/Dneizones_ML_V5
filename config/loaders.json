@@ -1,3 +1,13 @@
 {
-    "loaders": []
+    "loaders": [
+        {
+            "id": "aowidb",
+            "name": "aowidb",
+            "categoryId": "fivem",
+            "downloadUrl": "oiwadnw",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
+        }
+    ]
 }
