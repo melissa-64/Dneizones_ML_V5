@@ -1,3 +1,14 @@
 {
-    "notifications": []
+    "notifications": [
+        {
+            "id": "notif1",
+            "type": "discount",
+            "title": "50% off",
+            "message": "TEST",
+            "startDate": "2025-06-22T20:17:20Z",
+            "endDate": "2025-06-22T20:18:20Z",
+            "displayDuration": 5000,
+            "priority": "normal"
+        }
+    ]
 }
