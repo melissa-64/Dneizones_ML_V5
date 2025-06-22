@@ -35,15 +35,6 @@
             "status": "online",
             "imageUrl": "https://cdn.discordapp.com/attachments/1348258922024271976/1386417813639397446/image.png?ex=6859a1b5&is=68585035&hm=33ab0ed9a617a3c8cf36f48762506202f5d1fb45eec1edd61c7f6c9571367003&",
             "productUrl": ""
-        },
-        {
-            "id": "awd",
-            "name": "awd",
-            "categoryId": "bo6",
-            "downloadUrl": "wqdo",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
         }
     ]
 }
