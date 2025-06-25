@@ -9,6 +9,16 @@
             "endDate": "2025-06-25T08:16:08Z",
             "displayDuration": 5000,
             "priority": "normal"
+        },
+        {
+            "id": "notif2",
+            "type": "announcement",
+            "title": "50% Discount",
+            "message": "50% Discount",
+            "startDate": "2025-06-25T08:08:10Z",
+            "endDate": "2025-06-25T18:08:10Z",
+            "displayDuration": 5000,
+            "priority": "high"
         }
     ]
 }
