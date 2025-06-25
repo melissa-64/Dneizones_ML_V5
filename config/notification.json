@@ -3,10 +3,10 @@
         {
             "id": "notif1",
             "type": "discount",
-            "title": "50% off",
-            "message": "TEST",
-            "startDate": "2025-06-22T20:17:20Z",
-            "endDate": "2025-06-22T20:18:20Z",
+            "title": "test",
+            "message": "50%",
+            "startDate": "2025-06-25T08:06:08Z",
+            "endDate": "2025-06-25T08:16:08Z",
             "displayDuration": 5000,
             "priority": "normal"
         }
