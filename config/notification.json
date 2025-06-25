@@ -19,6 +19,22 @@
             "endDate": "2025-06-25T18:08:10Z",
             "displayDuration": 5000,
             "priority": "high"
+        },
+        {
+            "id": "notif3",
+            "type": "discount",
+            "title": "Weekend Sale!",
+            "message": "Get 50% off all products this weekend only!",
+            "startDate": "2025-06-25T08:10:53Z",
+            "endDate": "2025-06-27T08:10:53Z",
+            "displayDuration": 5000,
+            "priority": "normal",
+            "cta": {
+                "primary": {
+                    "text": "Shop Now",
+                    "url": "https://dneizones.com"
+                }
+            }
         }
     ]
 }
