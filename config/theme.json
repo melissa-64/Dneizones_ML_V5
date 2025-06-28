@@ -18,7 +18,7 @@
         "background": {
             "main": "#050505",
             "overlay": "rgba(10,10,10,0.5)",
-            "custom-image": "https://cdn.discordapp.com/attachments/1386048100681912375/1388558208779554836/Logo_Animated.gif?ex=68616b1b&is=6860199b&hm=16264327f0fd9cb8a76b7066fa93fc095aa48790d0981cf3dc46d12793df1a7f&",
+            "custom-image": "https://cdn.discordapp.com/attachments/1386048100681912375/1388558951913754735/Logo-Gradient.png?ex=68616bcc&is=68601a4c&hm=2b9f710075964ee05bcdd31ed5b91f7e1678f02ad6a0d6d90c515f18d7e09921&",
             "logoImage": "https://cdn.discordapp.com/attachments/1386048100681912375/1388558951913754735/Logo-Gradient.png?ex=68616bcc&is=68601a4c&hm=2b9f710075964ee05bcdd31ed5b91f7e1678f02ad6a0d6d90c515f18d7e09921&",
             "background-anim": "snow"
         },
