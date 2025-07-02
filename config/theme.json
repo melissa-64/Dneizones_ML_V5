@@ -20,7 +20,7 @@
             "overlay": "rgba(10,10,10,0.5)",
             "custom-image": "https://i.postimg.cc/T1gZbXr6/Logo-Gradient.png",
             "logoImage": "https://i.postimg.cc/T1gZbXr6/Logo-Gradient.png",
-            "background-anim": "snow"
+            "background-anim": "particles"
         },
         "border": {
             "radius": {
