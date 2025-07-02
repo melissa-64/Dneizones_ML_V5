@@ -1,7 +1,7 @@
 {
     "loaders": [
         {
-            "id": "DNext",
+            "id": "Loader",
             "name": "DNext",
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1344640980418166865_cloud/main/BOEngine_V1_-_Unbranded.exe",
