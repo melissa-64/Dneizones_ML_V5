@@ -35,6 +35,20 @@
             "status": "online",
             "imageUrl": "https://i.postimg.cc/HWSrVD6M/dcontrol.png",
             "productUrl": ""
+        },
+        {
+            "id": "mod-xternal",
+            "name": "Mod Xternal",
+            "categoryId": "bo6",
+            "downloadUrl": "https://drive.google.com/file/d/14b6F6MDgloNe-t85Qitq8_jrcu7WD8OK/view?usp=drive_link",
+            "status": "online",
+            "imageUrl": "https://discord.com/channels/1407041238288564294/1407041241312661666/1407051908694282361",
+            "productUrl": "",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": []
+            }
         }
     ]
 }
