@@ -2,39 +2,13 @@
     "notifications": [
         {
             "id": "notif1",
-            "type": "discount",
-            "title": "test",
-            "message": "50%",
-            "startDate": "2025-06-25T08:06:08Z",
-            "endDate": "2025-06-25T08:16:08Z",
+            "type": "announcement",
+            "title": "10% Sale",
+            "message": "Sale!",
+            "startDate": "2025-09-05T19:45:19Z",
+            "endDate": "2025-09-10T22:45:19Z",
             "displayDuration": 5000,
             "priority": "normal"
-        },
-        {
-            "id": "notif2",
-            "type": "announcement",
-            "title": "50% Discount",
-            "message": "50% Discount",
-            "startDate": "2025-06-25T08:08:10Z",
-            "endDate": "2025-06-25T18:08:10Z",
-            "displayDuration": 5000,
-            "priority": "high"
-        },
-        {
-            "id": "notif3",
-            "type": "discount",
-            "title": "Weekend Sale!",
-            "message": "Get 50% off all products this weekend only!",
-            "startDate": "2025-06-25T08:10:53Z",
-            "endDate": "2025-06-27T08:10:53Z",
-            "displayDuration": 5000,
-            "priority": "normal",
-            "cta": {
-                "primary": {
-                    "text": "Shop Now",
-                    "url": "https://dneizones.com"
-                }
-            }
         }
     ]
 }
